@@ -1,0 +1,48 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="title" content="Solarpunk Surf CLub">
+<meta name="description" content="Official portfolio website of Solarpunk Surf Club—arts collective in Madison, Wisconsin.">
+<meta name="keywords" content="Madison, Wisconsin, midwest, artist, utopian realism, palliative design, memetics, multimedia, installation, video, sound, photography, print media, software, graphic design, relational, ecological, aesthetics, metamodernism, ambient, generative, care theory, solarpunk, lunarpunk, social ecology">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+
+<html>
+  <head>
+    <title>Solarpunk Surf Club</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body> 
+  <div class="container">
+    <h2>About</h2>
+    <p> <i>Solarpunk Surf Club</i> is an arts collective who create and curate egalitarian platforms for surfing the waves of still-possible worlds.</p>
+    <hr/>
+
+    <h2>Projects</h2>
+    <p> Græn R∞m is a public living room for utopian (re)creation. Guests are invited to read, rest, play, and socialize in a cozy, communal environment. </p>
+ <p>
+ The project takes its name from three different concepts of ‘the green room.’
+  <ol>
+    <li> In theater, music, and entertainment: a space to relax and socialize backstage; a room for artists and guests to prepare before, and retire after, a performance. </li>
+    <li>In the White House: an artfully decorated state parlor used for intimate receptions and tea ceremonies.</li>
+    <li>In surfing parlance: the sublime yet precarious space inside the barrel of a breaking wave.</li>
+    </ol>
+ </p>
+ <!-- <div class="def_container">
+    <div class="def">
+      In theater, music, and entertainment: a space to relax and socialize backstage; a room for artists and guests to prepare before, and retire after, a performance.
+    </div>
+    <div class="def">
+      In the White House: an artfully decorated state parlor used for intimate receptions and tea ceremonies.
+    </div>
+    <div class="def">
+      In surfing parlance: the sublime yet precarious space inside the barrel of a breaking wave.
+    </div>
+    </div> -->
+
+  <p>
+  <img src="images/graen-room-1.jpg">
+    </p>
+  </div> <!-- end of container div -->
+  </body>
+</html>

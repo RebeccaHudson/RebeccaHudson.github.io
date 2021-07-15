@@ -4,6 +4,8 @@
 <style>
 body {background-color: lightgray;}
 img {width: 50%; }
+div.entry { width: 90%; margin-top: 2em; margin-bottom: 2em; }
+div.editorsnote { font-size: 15px; }
 </style>
 </head>
 <body>
